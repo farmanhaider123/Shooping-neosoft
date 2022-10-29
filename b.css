@@ -40,6 +40,9 @@ img.card-img-top:hover {
     padding: 30px;
     cursor: pointer;
 }
+.col {
+    width: 161px;
+}
 .card-title {
     
     font-family: fantasy;

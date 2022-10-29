@@ -53,6 +53,9 @@ img.card-img {
     height: 203px;
     width: 144px;
 }
+img.card-img-top2 {
+    width: 220px;
+}
 a:hover {
     color: #2196f3;
     box-shadow: 7px -2px 30px 3px #2196f3;
